@@ -3,6 +3,7 @@
 
 import java.util.*; 
 import java.io.*;
+
 class Main 
 {
   public static String StringChallenge(String str) 
@@ -22,6 +23,7 @@ class Main
     }
     return response;
   }
+
   public static void main (String[] args) 
   {  
     Scanner s = new Scanner(System.in);
